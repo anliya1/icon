@@ -35,7 +35,7 @@ CN url 307 JP
 ^(http|https):\/\/logoshejishi\.mairuan\.com\/ url 302 https://www.sothink.com/product/logo-design-software/
 ^(http|https):\/\/(www.)?luping\.net\.cn\/ url 302 https://www.techsmith.com/
 ^(http|https):\/\/(www.)?mathtype\.cn\/ url 302 https://www.dessci.com/
-(?<=\?version_code=)\d{2}.. url 307 1020413080
+(?<=\?version_code=)17.. url 307 1020413080
 ^(http|https):\/\/(www.)?mindmanager\.(cc|cn)\/ url 302 https://www.mindjet.com/cn/
 ^(http|https):\/\/(www.)?mindmapper\.cc\/ url 302 https://www.mindmapper.com/
 ^(http|https):\/\/(www.)?(mycleanmymac|xitongqingli)\.com\/ url 302 https://macpaw.com/
